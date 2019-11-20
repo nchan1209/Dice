@@ -15,10 +15,10 @@ void draw()
 		{
 			Die a; 
 			a = new Die(x,y);
-			a.roll();
+			a.roll();}
+
 			a.show();
-		}
-	
+			
 
 }
 void mousePressed()
